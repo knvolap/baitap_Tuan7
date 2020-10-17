@@ -80,7 +80,7 @@
             android:layout_height="40dp"
             android:layout_gravity="center"
             android:layout_marginTop="20dp"
-            android:text="Create a user now?"
+            android:text="Create a user now - signup ?"
             android:textColor="@color/colorBlack"
             android:textSize="15sp"
             android:textStyle="italic" />
